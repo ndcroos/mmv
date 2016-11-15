@@ -1,7 +1,6 @@
 '''
 =================================
 |  Project multimediaverwerking |
-|     Student: Nick Decroos     |
 =================================
 Omschrijving
 ----------
@@ -63,12 +62,6 @@ class App:
         cap.release()
         cv2.destroyAllWindows()
     
-    
-    
-    
-    
-
-
 
 def main():
     import sys
